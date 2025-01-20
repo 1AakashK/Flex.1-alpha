@@ -1,5 +1,5 @@
 ---
-title: Flux.1-alpha
+title: Flex.1-alpha
 emoji: 🖥️
 colorFrom: yellow
 colorTo: pink
